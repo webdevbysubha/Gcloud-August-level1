@@ -1,0 +1,7 @@
+export REGION=
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/App%20Engine%20Qwik%20Start%20Python/quicklabgsp067.sh
+
+sudo chmod +x quicklabgsp067.sh
+
+./quicklabgsp067.sh
